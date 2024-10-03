@@ -32,5 +32,4 @@ Write the code to output:
 (\(\
 ( - -)
 ((') (')
-```
 It may be easier to get the correct output if you copy/paste each line from the sample run above.
